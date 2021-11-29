@@ -20,8 +20,3 @@ The update is only allowed to the incomplete items in the left view Completed it
 
 -To Save Data in a File: After the user is satisfied with the data He/She can click on the Save As button This will open the directory where the IntellijProject is stored User should enter the name of the file and click on Save (Do not add .txt to filename, this is very important) By default the file will be saved as a .txt file with the app data stored in byte stream
 
--To Open a File: He/She can click on the Open button This will open the directory where the IntellijProject is stored User should select the file with the data stored and click on Open This will transfer the data from the file to the application and the user cvan monitor thier progress
-
-If a file is opened then any changes made to the data will be stored in the same file after the application is closed
-
-If a file is not opened then the user must Save the data manually otherwise the data will be lost after the applicaiton is closed
