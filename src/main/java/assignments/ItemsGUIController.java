@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 
 public class ItemsGUIController {
     /*
-     *  UCF COP3330 Summer 2021 Assignment 4 Solution
+     *  UCF COP3330 fall 2021 Assignment 4 Solution
      *  Copyright 2021 Monil_Patel
      */
 
