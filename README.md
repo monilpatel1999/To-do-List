@@ -16,7 +16,6 @@ By default the updates will be made to the file if it is opened inside the appli
 
 The update is only allowed to the incomplete items in the left view Completed items cannot be edited
 
--To Delete an item: Select the item from the List View on either side Click on the Delete button This will delete the item from the left/right view It indicates that the item has been deleted from the items lists
 
 -To Save Data in a File: After the user is satisfied with the data He/She can click on the Save As button This will open the directory where the IntellijProject is stored User should enter the name of the file and click on Save (Do not add .txt to filename, this is very important) By default the file will be saved as a .txt file with the app data stored in byte stream
 
