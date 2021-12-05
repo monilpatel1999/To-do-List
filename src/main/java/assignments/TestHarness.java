@@ -9,8 +9,8 @@ import java.util.Comparator;
 
 public class TestHarness {
     /*
-     *  UCF COP3330 Summer 2021 Assignment 4 Solution
-     *  Copyright 2021 Ayush Pindoria
+     *  UCF COP3330 Fall 2021 Assignment 4 Solution
+     *  Copyright 2021 Monil_Patel
      */
 import java.time.LocalDate;
 import java.util.ArrayList;
